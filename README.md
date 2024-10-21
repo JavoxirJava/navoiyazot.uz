@@ -1,3 +1,3 @@
-## Navoiy Azot 
-# navoiyazot.uz
-# HTML, CSS and JS
+# Navoiy Azot 
+### navoiyazot.uz
+## HTML, CSS and JS
