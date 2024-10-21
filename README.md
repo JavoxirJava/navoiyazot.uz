@@ -1,3 +1,9 @@
 # Navoiy Azot 
-### navoiyazot.uz
-## HTML, CSS and JS
+[navoiyazot.uz](https://navoiyazot.uz)
+## Technology
+- HTML
+- CSS
+- JavaScript
+
+
+# By **Javohir**
