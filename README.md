@@ -6,4 +6,4 @@
 - JavaScript
 
 
-# By **Javohir**
+# By [**Javohir**](https://javohir-dev.uz)
